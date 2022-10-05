@@ -259,6 +259,6 @@ public class LineCode : MonoBehaviour
 
 至此实现完毕
 
-> 联合作者 ：Pache([https://pache-ak.github.io/pache.github.io/](https://pache-ak.github.io/pache.github.io/)) Azula([https://limafang.github.io/Azula_blogs.github.io/](https://limafang.github.io/Azula_blogs.github.io/))
+> 联合作者 ：Pache([https://pache-ak.github.io/](https://pache-ak.github.io/)) Azula([https://limafang.github.io/Azula_blogs.github.io/](https://limafang.github.io/Azula_blogs.github.io/))
 >
 > 参考学习内容：https://www.youtube.com/watch?v=BtMs0ysTdkM
